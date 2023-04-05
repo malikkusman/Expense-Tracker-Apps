@@ -2,7 +2,7 @@
   "name": "expense-tracker",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://{malikkusman}.github.io/{Expense-Tracker-Apps}",
+  "homepage": "https://malikkusman.github.io/Expense-Tracker-Apps",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
